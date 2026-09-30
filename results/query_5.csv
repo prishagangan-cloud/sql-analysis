@@ -1,0 +1,11 @@
+naics_title,sector_code,ef_with_margins,sector_avg,times_avg
+Cement Manufacturing,32,3.924,0.531,7.4
+Alumina Refining and Primary Aluminum Production,33,1.018,0.232,4.4
+Beef Cattle Ranching and Farming,11,2.893,0.727,4.0
+Cattle Feedlots,11,2.893,0.727,4.0
+Dual-Purpose Cattle Ranching and Farming,11,2.893,0.727,4.0
+Iron and Steel Mills and Ferroalloy Manufacturing,33,0.787,0.232,3.4
+Lime Manufacturing,32,1.623,0.531,3.1
+Gypsum Product Manufacturing,32,1.623,0.531,3.1
+"Aluminum Sheet, Plate, and Foil Manufacturing",33,0.721,0.232,3.1
+"Other Aluminum Rolling, Drawing, and Extruding",33,0.721,0.232,3.1
