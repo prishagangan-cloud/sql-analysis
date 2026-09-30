@@ -4,7 +4,7 @@ I used SQL (SQLite, run from Python) to explore which US industries produce the 
 
 ## Dataset
 Supply Chain GHG Emission Factors (NAICS, kg CO2e per 2022 USD), 1,016 industries.
-Source: [paste the link where you downloaded it]
+Source: https://catalog.data.gov/dataset/supply-chain-greenhouse-gas-emission-factors-v1-3-by-naics-6?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9 
 
 ## Question
 Which industries and sectors have the highest emissions per dollar, and where do trade and transport margins matter most?
